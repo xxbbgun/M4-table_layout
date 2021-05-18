@@ -3,9 +3,11 @@ table,th,td{
 }
 table {
     width: 50%;
+   
 }
 th{
     height: 50px;
+    background-color: cornsilk;
 }
 td{
     padding: 10px;
